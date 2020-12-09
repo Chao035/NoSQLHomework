@@ -21,4 +21,3 @@ class InverseAdjacencyList extends ArrayList<List<Link>> {
         links.add(link);
     }
 }
-

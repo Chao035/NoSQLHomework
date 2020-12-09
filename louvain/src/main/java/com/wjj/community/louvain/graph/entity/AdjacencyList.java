@@ -22,4 +22,3 @@ class AdjacencyList extends ArrayList<List<Link>> {
     }
 
 }
-
